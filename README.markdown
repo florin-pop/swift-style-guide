@@ -1,10 +1,7 @@
-# The Official raywenderlich.com Swift Style Guide.
+# A Swift style guide inspired by the official raywenderlich.com Swift style guide
 
-This style guide is different from others you may see, because the focus is centered on readability for print and the web. We created this style guide to keep the code in our books, tutorials, and starter kits nice and consistent — even though we have many different authors working on the books.
-
-Our overarching goals are conciseness, readability, and simplicity.
-
-Writing Objective-C? Check out our [Objective-C Style Guide](https://github.com/raywenderlich/objective-c-style-guide) too.
+The official raywenderlich.com Swift style guide is centered on readability for print and the web.
+This style guide is centered on readability in Xcode and as such, it has different spacing requirements.
 
 ## Table of Contents
 
