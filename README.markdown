@@ -1,7 +1,4 @@
-# A Swift style guide inspired by the official raywenderlich.com Swift style guide
-
-The official raywenderlich.com Swift style guide is centered on readability for print and the web.
-This style guide is centered on readability in Xcode and as such, it has different spacing requirements.
+# A Swift style guide inspired by the official [raywenderlich.com Swift style guide](https://github.com/raywenderlich/swift-style-guide) and [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/) documentation by Apple.
 
 ## Table of Contents
 
